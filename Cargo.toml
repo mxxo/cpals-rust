@@ -1,0 +1,8 @@
+[package]
+name = "cpals-rust"
+version = "0.1.0"
+authors = ["Max Orok <morok028@uottawa.com>"]
+edition = "2018"
+
+[dependencies]
+
